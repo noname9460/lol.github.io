@@ -1,0 +1,73 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQBCcbsr7YBvaEfuGRO31ISG_2K_PQ44J6tw&usqp=CAU);
+   
+   background-repeat:repeat;
+
+}
+.bob{
+    background-color:olivedrab;
+    width: 95%;
+    height: 100%;
+    box-shadow: black;
+    margin:auto;
+    font-size: 20px;
+    max-width: 1000px;
+    box-shadow: 0 0 10px 1px black;
+ 
+}
+.none{
+    
+    width: 95%;
+    
+    box-shadow: black;
+    margin:auto;
+    font-size: 20px;
+    max-width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.frog{
+    color: black;
+    margin-left:420px;
+    font-size: 30px;
+}
+.frog:hover{
+    color: red;
+}
+.dog{
+    color: black;
+font-size: 20px;
+text-decoration: solid;
+}
+.dog:hover{
+    color:brown;
+}
+.road{
+    max-width: 650px;
+    max-height: 500px;
+    height:250px;
+    width: 300px;
+    background-color: black;
+    margin: 50px;
+    padding: auto;
+}
+.road:hover{
+height:260px;
+width: 310px;
+}
+.red{
+height: 250px; 
+width: 350px;
+
+}
+.red:hover{
+height: 260px;
+width: 360px;
+}
+img{
+background-size: 100%;
+}
